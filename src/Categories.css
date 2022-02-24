@@ -1,0 +1,33 @@
+.All-Categories{
+text-align: center;
+  padding:10px;
+  border:2px rgb(200, 109, 223) solid;
+  width:95%;
+  margin:auto;
+  background-color: rgb(240, 213, 178);
+}
+.Category-Heading{
+    background-color: rgb(181, 49, 207);
+    width:40%;
+    margin:auto;
+    padding:7px;
+    margin-bottom:10px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.Category{
+    display: inline-block;
+    background-color: cadetblue;
+    width:20%;
+    height:150px;
+    border-radius: 50%;
+   padding:5px;
+   margin:7px;
+
+}
+.Category-Item{
+    margin-top :20%;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(181, 49, 207);
+}

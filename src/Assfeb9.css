@@ -1,0 +1,71 @@
+.Comment,.Forum{
+    background:linear-gradient(45deg,orange,rgb(148, 140, 140),orange,rgb(148, 140, 140)) ;
+    text-align: center;
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top :20px;
+    padding:10px;
+    border-radius: 8px;
+}
+.comment-Form{
+    border:rgb(164, 164, 207) solid 2px;
+    width :420px;
+    padding:10px;
+    margin: auto;
+    border-radius: 5px;
+}
+.form-elements{
+    display: block;
+    width:300px;
+    text-align: center;
+    height:20px;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:5px;
+    margin-top:15px;
+    border-radius: 6px;
+    background-color: rgb(230, 185, 185);
+    border:darkcyan 2px solid;
+}
+.Comment-Body{
+    height: 40px;
+}
+.Button{
+    height:35px;
+    width:150px;
+    border-radius: 6px;
+    border:darkcyan 2px solid;
+    background-color: rgb(230, 185, 185);
+
+}
+.Display-Comments{
+    border :darkred 2px solid;
+    width: 600px;
+    margin:auto;
+    margin-bottom:13px;
+    padding: 5px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.para{
+    text-align: left;
+    font-size:18px;
+    font-weight:4px;
+    margin-left:30px;
+}
+.Forum{
+    background: rgb(223, 126, 142);
+}
+.Table{
+    border:2px solid black;
+    margin:auto;
+    margin-top: 10px;
+}
+.Table-elements{
+    border:2px solid black;
+    height:auto;
+    width:200px;
+}
+

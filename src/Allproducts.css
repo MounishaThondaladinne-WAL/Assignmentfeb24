@@ -1,0 +1,27 @@
+.AllProducts-Div{
+    border:darkred 2px solid;
+    text-align: center;
+}
+.Product{
+    border:black 2px solid;
+    background-color: rgb(233, 190, 190);
+    border-radius: 20px;
+    display:inline-block;
+    width:40%;
+    margin:15px;
+}
+
+.Product-Title{
+    height:56px;
+    background-color:rgb(212, 103, 121);
+    border-radius: 20px;
+    text-align: center;
+    width:400px;
+    padding:5px;
+    margin:auto;
+}
+.Product-Description{
+    text-align: left;
+    padding:5px;
+    height: 260px;
+}

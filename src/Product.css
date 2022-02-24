@@ -1,0 +1,28 @@
+.Product-Div{
+    border:black solid 2px;
+    text-align: center;
+    width:60%;
+    margin:auto;
+}
+.Title{
+background-color: gray;
+border-radius: 30px;
+width:60%;
+margin:auto;
+height:50px;
+font-size: 20px;
+padding: 7px;
+}
+.Image{
+    border : 2px solid black;
+    height:300px;
+    width:300px;
+    padding:10px;
+    margin:10px;
+}
+.Description{
+    height:100px;
+    width:330px;
+    padding:10px;
+    margin:auto;
+}
